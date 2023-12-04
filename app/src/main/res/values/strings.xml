@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Celtic_music_project13</string>
+    <string name="ukelele">ukeleleimg</string>
+    <string name="drums">Drums Image</string>
+    <string name="btirishjig">PLAY IRISH JIG</string>
+    <string name="btbagpipes">PLAY BAGPIPES</string>
+    <string name="tvSplash">Celtic Sounds</string>
+
+</resources>
